@@ -1,12 +1,23 @@
-html,body{color:green}
-body {background-color: pink;}
+.form {text-align: center;}
+.hr {color: white;}
+.header {text-align: center;}
+.video {text-align: center;}
+h1 {text-align: center;}
+body {font-family: Georgia, 'Times New Roman', Times, serif;
+margin: auto;
 
-h1{text-align: center;
-}
-
-.logo {display: block; margin:0 auto}
-
-#psfondo {background-color: white; margin: 0%;}
-
-.centro {text-align: center;}
-
+background: linear-gradient(to right, green, yellow);}
+#psfondo {background-color: white;
+    font-size: small;
+padding-top: 10px;
+padding-bottom: 10px;}
+#logo {margin: 20px;}
+.content {width: 50%; margin: auto;}
+#feature {border-left: 1px;
+    border-left-style: solid;
+    border-left-color: yellow;
+    padding-left: 10px;}
+#featurecolore {color: red;}
+#spanbold {font-weight: bold;}
+.bold {font-weight: bold;}
+h3 {font-weight: normal;}
