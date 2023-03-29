@@ -1,0 +1,12 @@
+html,body{color:green}
+body {background-color: pink;}
+
+h1{text-align: center;
+}
+
+.logo {display: block; margin:0 auto}
+
+#psfondo {background-color: white; margin: 0%;}
+
+.centro {text-align: center;}
+
