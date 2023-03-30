@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {font-family: 'Poppins', sans-serif;
+box-sizing: border-box;}
+html,body{
+    padding: 0;
+font-size: 0,8em;
+line-height: 1,2em;
+background-image: url(../img/sfondo.png);
+background-size: auto;
+background-attachment: fixed;
+background-repeat: repeat;}
+
+#header {text-align: center;
+background-image: linear-gradient(rgba(0, 160, 198, 1), yellow); {color: red;}
+}
+
+#primodiv {padding-top: 20px;}
+
+#main{background-color: white ;}
+
+#footer {background-image: linear-gradient(#458343, yellow);
+text-align: center;
+padding-bottom: 15px;
+padding-top: 10px}
+
+.grigio {background-color: grey;
+border-radius: ;}
+
+#ul {display: inline-block;
+text-align: center;
+list-style-position: inside;
+}
+
+#header a:hover {color: red}
+#header ul li:hover {color: red}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.right {text-align: right;}
+
+h2{text-align: center;}
+
+.box {background-color: grey;}
+
+
