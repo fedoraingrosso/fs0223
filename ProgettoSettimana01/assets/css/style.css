@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans&display=swap');
+
+html{margin: 0px;
+padding: 0px;
+box-sizing: border-box;}
+
+header {text-align: center;
+    background-color: black;
+padding: 25px;}
+
+#notebook {border-radius: 50%;}
+    
+h1, h3, h4 {font-family: 'Montserrat', sans-serif;
+color: #25a2c3;
+line-height: 1,5;}
+h2 {font-family: 'Montserrat', sans-serif;
+color: white;
+line-height: 1,5}
+
+body{font-family: 'Open Sans', sans-serif;
+font-size: 1.2rem;
+color: #393d41;
+line-height: 1.65;
+text-align: center;
+margin: 0;}
+
+#banner {background-image: url(../img/banner.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 250px;
+padding: 30px;
+}
+
+#pulsante {background-color: #f04c2f;
+font-weight: bold;
+color: white;
+border-radius: 5px;
+font-family: 'Montserrat', sans-serif;
+padding: 25px;
+width: 150px;
+height: 10px;
+text-decoration: none;
+padding: 11px 30px 11px 30px;
+font-size: 12px;}
+
+#testimonianza {background-color: #e22d0e;
+color: white;
+padding-top: 30px;
+padding-bottom: 30px;}
+
+ 
+#footer {background-color: #25a2c3;
+color: #c8e7f0;
+padding-top: 15px;
+margin-top: 100px;}
+
+
+#ul {list-style: none;
+text-align: center;}
+
+.link{color: #c8e7f0;}
+
+.boxes {border: 2px solid #dee1e3;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+text-align: center;
+margin: 40px 25px 30px 25px;}
+
+#pixabay {border-top: 2px solid #c8e7f0;
+width: 50%;
+margin: 0 auto;
+font-size: 15px;
+padding-top: 20px;
+padding-bottom: 60px;}
+
+h1 {margin: 0;}
+h3{margin: 30;}
+
+#ceo {font-size: 15px;
+margin-top: 0;}
+#mariorossi {margin-bottom: 0;}
